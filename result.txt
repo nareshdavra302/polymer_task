@@ -1,0 +1,50 @@
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary – Maximilian I, Hol…risi, North African Islamic jurist and theologian'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 1 – Portuguese explo…\nGwerful Mechain, Welsh erotic poet (b. c. 1460?)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 17 – Cesare Borgia r… Gaspar Corte-Real, Portuguese explorer (b. 1450)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 17 – Cesare Borgia r… Gaspar Corte-Real, Portuguese explorer (b. 1450)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJune 6 – The M8.2–8.8 Lo Mus…Kramer, German churchman and inquisitor (b. 1430)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJune 6 – The M8.2–8.8 Lo Mus…Kramer, German churchman and inquisitor (b. 1430)'}
+{retries: 0, data: 'Events\r\n\r\nWaldseemüller maps America.\r\n\r\nJanuary–J…es Jónsdóttir, Icelandic abbess (b. year unknown)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 14 – The classical s…et Lee, confidante of Queen Anne Boleyn (d. 1543)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 14 – The classical s…et Lee, confidante of Queen Anne Boleyn (d. 1543)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 17 – Cesare Borgia r… Gaspar Corte-Real, Portuguese explorer (b. 1450)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary 3 – Battle of Diu: …ranarasimha Raya, ruler of the Vijayanagar Empire'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 14 – The classical s…et Lee, confidante of Queen Anne Boleyn (d. 1543)'}
+{retries: 0, data: 'Events\r\n\r\nMay 10: Columbus at Cayman Islands.\r\nJan…. 1445)\r\nAnacaona, Taino queen and poet (b. 1474)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary 3 – Battle of Diu: …ranarasimha Raya, ruler of the Vijayanagar Empire'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 1 – Portuguese explo…\nGwerful Mechain, Welsh erotic poet (b. c. 1460?)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary – Maximilian I, Hol…risi, North African Islamic jurist and theologian'}
+{retries: 0, data: 'Events\r\n\r\nSunflowers are introduced in Europe.\r\n\r\n…, Polish noble\r\nMandukhai Khatun, Mongolian queen'}
+{retries: 0, data: 'Events\r\n\r\nMay 10: Columbus at Cayman Islands.\r\nJan…. 1445)\r\nAnacaona, Taino queen and poet (b. 1474)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 14 – The classical s…et Lee, confidante of Queen Anne Boleyn (d. 1543)'}
+{retries: 0, data: 'Events\r\n\r\nWaldseemüller maps America.\r\n\r\nJanuary–J…es Jónsdóttir, Icelandic abbess (b. year unknown)'}
+{retries: 0, data: 'Events\r\n\r\nWaldseemüller maps America.\r\n\r\nJanuary–J…es Jónsdóttir, Icelandic abbess (b. year unknown)'}
+{retries: 0, data: 'Events\r\n\r\nMay 10: Columbus at Cayman Islands.\r\nJan…. 1445)\r\nAnacaona, Taino queen and poet (b. 1474)'}
+{retries: 0, data: 'Events\r\n\r\nWaldseemüller maps America.\r\n\r\nJanuary–J…es Jónsdóttir, Icelandic abbess (b. year unknown)'}
+{retries: 0, data: "Events\r\n\r\nSeptember 8: Michelangelo's David is com…, Korean official and venturer to China (b. 1454)"}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary – Maximilian I, Hol…risi, North African Islamic jurist and theologian'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 17 – Cesare Borgia r… Gaspar Corte-Real, Portuguese explorer (b. 1450)'}
+{retries: 0, data: 'Events\r\n\r\nSunflowers are introduced in Europe.\r\n\r\n…, Polish noble\r\nMandukhai Khatun, Mongolian queen'}
+{retries: 0, data: 'Events\r\n\r\nMay 10: Columbus at Cayman Islands.\r\nJan…. 1445)\r\nAnacaona, Taino queen and poet (b. 1474)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 14 – The classical s…et Lee, confidante of Queen Anne Boleyn (d. 1543)'}
+{retries: 0, data: 'Events\r\n\r\nSunflowers are introduced in Europe.\r\n\r\n…, Polish noble\r\nMandukhai Khatun, Mongolian queen'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 14 – The classical s…et Lee, confidante of Queen Anne Boleyn (d. 1543)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary – Maximilian I, Hol…risi, North African Islamic jurist and theologian'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary – Maximilian I, Hol…risi, North African Islamic jurist and theologian'}
+{retries: 2, data: 'Events\r\n\r\nWaldseemüller maps America.\r\n\r\nJanuary–J…es Jónsdóttir, Icelandic abbess (b. year unknown)'}
+{retries: 1, data: 'Events\r\n\r\nSunflowers are introduced in Europe.\r\n\r\n…, Polish noble\r\nMandukhai Khatun, Mongolian queen'}
+{retries: 1, data: 'Events\r\nJanuary–June\r\nJanuary 17 – Cesare Borgia r… Gaspar Corte-Real, Portuguese explorer (b. 1450)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 17 – Cesare Borgia r… Gaspar Corte-Real, Portuguese explorer (b. 1450)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary – Maximilian I, Hol…risi, North African Islamic jurist and theologian'}
+{retries: 0, data: 'Events\r\n\r\nMay 10: Columbus at Cayman Islands.\r\nJan…. 1445)\r\nAnacaona, Taino queen and poet (b. 1474)'}
+{retries: 0, data: 'Events\r\n\r\nWaldseemüller maps America.\r\n\r\nJanuary–J…es Jónsdóttir, Icelandic abbess (b. year unknown)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 17 – Cesare Borgia r… Gaspar Corte-Real, Portuguese explorer (b. 1450)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 1 – Portuguese explo…\nGwerful Mechain, Welsh erotic poet (b. c. 1460?)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 1 – Portuguese explo…\nGwerful Mechain, Welsh erotic poet (b. c. 1460?)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJanuary 14 – The classical s…et Lee, confidante of Queen Anne Boleyn (d. 1543)'}
+{retries: 1, data: 'Events\r\nJanuary–June\r\nJanuary 14 – The classical s…et Lee, confidante of Queen Anne Boleyn (d. 1543)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nFebruary – Maximilian I, Hol…risi, North African Islamic jurist and theologian'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJune 6 – The M8.2–8.8 Lo Mus…Kramer, German churchman and inquisitor (b. 1430)'}
+{retries: 0, data: 'Events\r\n\r\nWaldseemüller maps America.\r\n\r\nJanuary–J…es Jónsdóttir, Icelandic abbess (b. year unknown)'}
+{retries: 0, data: 'Events\r\nJanuary–June\r\nJune 6 – The M8.2–8.8 Lo Mus…Kramer, German churchman and inquisitor (b. 1430)'}
+{retries: 1, data: 'Events\r\nJanuary–June\r\nJanuary 17 – Cesare Borgia r… Gaspar Corte-Real, Portuguese explorer (b. 1450)'}
